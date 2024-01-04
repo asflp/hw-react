@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'SF Pro Text';
+    font-weight: 300;
+    font-style: normal;
+    src:
+            url('SFProText-Light.ttf') format('woff2'),
+            url('SFProText-Light.ttf') format('woff');
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    font-weight: 400;
+    font-style: normal;
+    src:
+            url('SFProText-Regular.ttf') format('woff2'),
+            url('SFProText-Regular.ttf') format('woff');
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    font-weight: 500;
+    font-style: normal;
+    src:
+            url('SFProText-Medium.ttf') format('woff2'),
+            url('SFProText-Medium.ttf') format('woff');
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    font-weight: 600;
+    font-style: normal;
+    src:
+            url('SFProText-Semibold.ttf') format('woff2'),
+            url('SFProText-Semibold.ttf') format('woff');
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    font-weight: 700;
+    font-style: normal;
+    src:
+            url('SFProText-Bold.ttf') format('woff2'),
+            url('SFProText-Bold.ttf') format('woff');
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    font-weight: 800;
+    font-style: normal;
+    src:
+            url('SFProText-Heavy.ttf') format('woff2'),
+            url('SFProText-Heavy.ttf') format('woff');
+}

@@ -1,0 +1,71 @@
+@import "src/fonts/fonts.css";
+
+.head {
+    display: flex;
+    flex-direction: row;
+    padding: 0 26px 0 32px;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    position: relative;
+}
+
+.logo__small {
+    display: flex;
+    width: 47px;
+    height: 18px;
+    position: absolute;
+    z-index: 1000;
+    margin-left: 46%;
+}
+
+.text {
+    display: flex;
+    flex-direction: row;
+    gap: 41px;
+}
+
+.text__item {
+    display: flex;
+    flex-direction: row;
+    font-family: 'SF Pro Text', serif;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: -0.336px;
+    align-items: center;
+    gap: 12px;
+    height: 38px;
+    border-radius: 40px;
+}
+
+img.text__item {
+    width: 24px;
+    height: 24px;
+}
+
+.search {
+    display: flex;
+    flex-direction: row;
+    gap: 31px;
+}
+
+.search_item {
+    display: flex;
+    flex-direction: row;
+    gap: 11px;
+    align-items: center;
+    font-family: 'SF Pro Text', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: -0.336px;
+}
+
+img.search_item {
+    width: 21px;
+    height: 21px;
+}
+
+.avatar {
+    height: 40px;
+    width: 40px;
+}

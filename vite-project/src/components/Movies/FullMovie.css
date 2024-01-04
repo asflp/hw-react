@@ -1,0 +1,37 @@
+@import "src/fonts/fonts.css";
+
+.container__movie {
+    display: flex;
+    flex-direction: column;
+    gap: 10.7px;
+    font-family: "SF Pro Text", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21.449px; /* 178.746% */
+    letter-spacing: -0.093px;
+    position: relative;
+    margin: 8px;
+}
+
+img.container {
+    width: 103px;
+    height: 160px;
+    margin: 0;
+}
+
+.points {
+    display: flex;
+    position: absolute;
+    z-index: 100;
+    right: 14.6px;
+    width: 24px;
+    height: 15px;
+    border-radius: 14px;
+    border: 1px solid #002DFF;
+    background: #FFF;
+    justify-content: center;
+    align-items: center;
+    color: #002DFF;
+    top: 8px;
+}

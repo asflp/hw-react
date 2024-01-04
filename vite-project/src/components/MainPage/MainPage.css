@@ -1,0 +1,22 @@
+.window__main{
+    width: 100%;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.images .first {
+    margin: 379px 0 332px;
+    width: 292px;
+    height: 126px;
+}
+
+.images .second {
+    width: 112px;
+    height: 51px;
+}
